@@ -33,8 +33,12 @@ This repository contains a CAPTCHA solver model built using Convolutional Neural
 ## Requirements
 
 - Python 3.x
-- TensorFlow or PyTorch (depending on your implementation)
-- Other dependencies as specified in `requirements.txt`
+- `PIL`
+- `NumPy`
+- `Matplotlib`
+- `TensorFlow`
+- `OpenCV (cv2)`
+- `string`
 
 ## Installation
 
