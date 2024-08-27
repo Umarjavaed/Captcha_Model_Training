@@ -40,4 +40,4 @@ This repository contains a CAPTCHA solver model built using Convolutional Neural
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/captcha-solver.git
+   git clone https://github.com/Umarjavaed/Captcha_Model_Training.git
