@@ -32,7 +32,7 @@ This repository contains a CAPTCHA solver model built using Convolutional Neural
 
 ## Requirements
 
-- Python 3.x
+- `Python 3.x`
 - `PIL`
 - `NumPy`
 - `Matplotlib`
